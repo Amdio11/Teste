@@ -1,9 +1,9 @@
 <p align="center"
-#Projeto de Teste da UC13
+#Projeto de Teste do Git/GitHub
 </p>
 
 <p align="center">
-Repositorio de teste da UC13
+Repositorio de teste 
 </p>
 <p align="center">
 <img width="200px" src="https://kokensha.xyz/wp-content/uploads/2018/02/react-native.png">
