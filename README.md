@@ -21,3 +21,6 @@ Repositorio de teste
 <p align="center">
 3) Abra o Terminal no Visual Studio Code e execute o comando <b>npm install</b>
 </p>
+<p align="center">
+  <img width="200px" src="https://github.com/Amdio11/Teste/blob/main/src/screenshots/Logo.png"
+</p>
